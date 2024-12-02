@@ -1,3 +1,6 @@
+"""This script is used in forcasting_notebook. 
+It download walmart-sales csv from kaggle locally and returns the file path location"""
+
 import pandas as pd
 
 def download_data():
